@@ -17,4 +17,4 @@
 - `favoritos_screen.dart` — Pantalla de favoritos con búsqueda local
 
 ## Proyecto completo
-Para ejecutar la app completa: https://github.com/alejandro012004/Escucha-tu-historia.git
+Para ejecutar la app completa: https://github.com/alvarezoca15/escucha_tu_historia_front.git
